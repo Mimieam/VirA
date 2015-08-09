@@ -296,7 +296,7 @@ var Autumn = (function (name, game) {
         }
     };
 
-    var Ai = new AI(name, new UI(), new socket("ideas-miezan.rhcloud.com", 80))
+    var Ai = new AI(name, new UI(), new socket("ideas-miezan.rhcloud.com", 8080))
     console.log(Ai)
     Ai.initUI();
 
