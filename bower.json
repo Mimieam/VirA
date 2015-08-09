@@ -1,0 +1,23 @@
+{
+  "name": "vira",
+  "version": "0.0.4",
+  "authors": [
+    "Mimieam <t.echismimi@gmail.com>"
+  ],
+  "keywords": [
+    "Game",
+    "Multiplayer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "engine.io": "~1.5.2",
+    "materialize": "~0.97.0"
+  }
+}

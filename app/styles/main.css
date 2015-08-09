@@ -1,0 +1,63 @@
+body {
+  background: #fafafa;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+.hero-unit {
+  margin: 50px auto 0 auto;
+  width: 300px;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 30px;
+  background-color: #eee;
+  border-radius: 6px;
+  padding: 60px;
+}
+
+.hero-unit h1 {
+  font-size: 60px;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+
+.tile div{
+  font-size: 5vw;
+}
+
+
+.col.sq.s1 {
+  height: 100vw;
+  width: 100vw;
+}
+
+.col.sq.s2 {
+  height: 50vw;
+  width: 50vw;
+}
+
+.col.s3.sq {
+  height: 33vw;
+  width: 33vw;
+}
+
+.col.s4.sq {
+  height: 25vw;
+  width: 25vw;
+  padding: .75vw;
+}
+.col.m2.sq {
+  height: 10vw;
+  width: 10vw;
+  padding: .75vw;
+}
+
+
